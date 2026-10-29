@@ -1,0 +1,3334 @@
+{
+ "subjects": {
+  "GK": "General Knowledge",
+  "M": "Math",
+  "E": "English",
+  "B": "Bangla"
+ },
+ "days": [
+  {
+   "date": "2026-11-01",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "GK"
+    },
+    {
+     "hour": 8,
+     "subject": "M"
+    },
+    {
+     "hour": 9,
+     "subject": "E"
+    },
+    {
+     "hour": 10,
+     "subject": "B"
+    },
+    {
+     "hour": 11,
+     "subject": "GK"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-02",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "GK"
+    },
+    {
+     "hour": 8,
+     "subject": "M"
+    },
+    {
+     "hour": 9,
+     "subject": "E"
+    },
+    {
+     "hour": 10,
+     "subject": "B"
+    },
+    {
+     "hour": 11,
+     "subject": "GK"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-03",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "GK"
+    },
+    {
+     "hour": 8,
+     "subject": "M"
+    },
+    {
+     "hour": 9,
+     "subject": "E"
+    },
+    {
+     "hour": 10,
+     "subject": "B"
+    },
+    {
+     "hour": 11,
+     "subject": "GK"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-04",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 19,
+     "subject": "GK"
+    },
+    {
+     "hour": 20,
+     "subject": "M"
+    },
+    {
+     "hour": 21,
+     "subject": "E"
+    },
+    {
+     "hour": 22,
+     "subject": "B"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-05",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "GK"
+    },
+    {
+     "hour": 8,
+     "subject": "M"
+    },
+    {
+     "hour": 9,
+     "subject": "E"
+    },
+    {
+     "hour": 10,
+     "subject": "B"
+    },
+    {
+     "hour": 11,
+     "subject": "GK"
+    },
+    {
+     "hour": 12,
+     "subject": "M"
+    },
+    {
+     "hour": 14,
+     "subject": "E"
+    },
+    {
+     "hour": 15,
+     "subject": "B"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-06",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "GK"
+    },
+    {
+     "hour": 8,
+     "subject": "M"
+    },
+    {
+     "hour": 9,
+     "subject": "E"
+    },
+    {
+     "hour": 10,
+     "subject": "B"
+    },
+    {
+     "hour": 11,
+     "subject": "GK"
+    },
+    {
+     "hour": 14,
+     "subject": "M"
+    },
+    {
+     "hour": 15,
+     "subject": "E"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-07",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "GK"
+    },
+    {
+     "hour": 7,
+     "subject": "M"
+    },
+    {
+     "hour": 8,
+     "subject": "E"
+    },
+    {
+     "hour": 9,
+     "subject": "B"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-08",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "GK"
+    },
+    {
+     "hour": 8,
+     "subject": "M"
+    },
+    {
+     "hour": 9,
+     "subject": "E"
+    },
+    {
+     "hour": 10,
+     "subject": "B"
+    },
+    {
+     "hour": 11,
+     "subject": "GK"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-09",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "GK"
+    },
+    {
+     "hour": 8,
+     "subject": "M"
+    },
+    {
+     "hour": 9,
+     "subject": "E"
+    },
+    {
+     "hour": 10,
+     "subject": "B"
+    },
+    {
+     "hour": 11,
+     "subject": "GK"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "GK"
+    },
+    {
+     "hour": 8,
+     "subject": "M"
+    },
+    {
+     "hour": 9,
+     "subject": "E"
+    },
+    {
+     "hour": 10,
+     "subject": "B"
+    },
+    {
+     "hour": 11,
+     "subject": "GK"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-11",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 19,
+     "subject": "GK"
+    },
+    {
+     "hour": 20,
+     "subject": "M"
+    },
+    {
+     "hour": 21,
+     "subject": "E"
+    },
+    {
+     "hour": 22,
+     "subject": "B"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-12",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "GK"
+    },
+    {
+     "hour": 8,
+     "subject": "M"
+    },
+    {
+     "hour": 9,
+     "subject": "E"
+    },
+    {
+     "hour": 10,
+     "subject": "B"
+    },
+    {
+     "hour": 11,
+     "subject": "GK"
+    },
+    {
+     "hour": 12,
+     "subject": "M"
+    },
+    {
+     "hour": 14,
+     "subject": "E"
+    },
+    {
+     "hour": 15,
+     "subject": "B"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "GK"
+    },
+    {
+     "hour": 8,
+     "subject": "M"
+    },
+    {
+     "hour": 9,
+     "subject": "E"
+    },
+    {
+     "hour": 10,
+     "subject": "B"
+    },
+    {
+     "hour": 11,
+     "subject": "GK"
+    },
+    {
+     "hour": 14,
+     "subject": "M"
+    },
+    {
+     "hour": 15,
+     "subject": "E"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-14",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "GK"
+    },
+    {
+     "hour": 7,
+     "subject": "M"
+    },
+    {
+     "hour": 8,
+     "subject": "E"
+    },
+    {
+     "hour": 9,
+     "subject": "B"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-15",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "GK"
+    },
+    {
+     "hour": 8,
+     "subject": "M"
+    },
+    {
+     "hour": 9,
+     "subject": "E"
+    },
+    {
+     "hour": 10,
+     "subject": "B"
+    },
+    {
+     "hour": 11,
+     "subject": "GK"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-16",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "GK"
+    },
+    {
+     "hour": 8,
+     "subject": "M"
+    },
+    {
+     "hour": 9,
+     "subject": "E"
+    },
+    {
+     "hour": 10,
+     "subject": "B"
+    },
+    {
+     "hour": 11,
+     "subject": "GK"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-17",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "GK"
+    },
+    {
+     "hour": 8,
+     "subject": "M"
+    },
+    {
+     "hour": 9,
+     "subject": "E"
+    },
+    {
+     "hour": 10,
+     "subject": "B"
+    },
+    {
+     "hour": 11,
+     "subject": "GK"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 19,
+     "subject": "GK"
+    },
+    {
+     "hour": 20,
+     "subject": "M"
+    },
+    {
+     "hour": 21,
+     "subject": "E"
+    },
+    {
+     "hour": 22,
+     "subject": "B"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-19",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "GK"
+    },
+    {
+     "hour": 8,
+     "subject": "M"
+    },
+    {
+     "hour": 9,
+     "subject": "E"
+    },
+    {
+     "hour": 10,
+     "subject": "B"
+    },
+    {
+     "hour": 11,
+     "subject": "GK"
+    },
+    {
+     "hour": 12,
+     "subject": "M"
+    },
+    {
+     "hour": 14,
+     "subject": "E"
+    },
+    {
+     "hour": 15,
+     "subject": "B"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "GK"
+    },
+    {
+     "hour": 8,
+     "subject": "M"
+    },
+    {
+     "hour": 9,
+     "subject": "E"
+    },
+    {
+     "hour": 10,
+     "subject": "B"
+    },
+    {
+     "hour": 11,
+     "subject": "GK"
+    },
+    {
+     "hour": 14,
+     "subject": "M"
+    },
+    {
+     "hour": 15,
+     "subject": "E"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-21",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "GK"
+    },
+    {
+     "hour": 7,
+     "subject": "M"
+    },
+    {
+     "hour": 8,
+     "subject": "E"
+    },
+    {
+     "hour": 9,
+     "subject": "B"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-22",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "GK"
+    },
+    {
+     "hour": 8,
+     "subject": "M"
+    },
+    {
+     "hour": 9,
+     "subject": "E"
+    },
+    {
+     "hour": 10,
+     "subject": "B"
+    },
+    {
+     "hour": 11,
+     "subject": "GK"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-23",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "GK"
+    },
+    {
+     "hour": 8,
+     "subject": "M"
+    },
+    {
+     "hour": 9,
+     "subject": "E"
+    },
+    {
+     "hour": 10,
+     "subject": "B"
+    },
+    {
+     "hour": 11,
+     "subject": "GK"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "GK"
+    },
+    {
+     "hour": 8,
+     "subject": "M"
+    },
+    {
+     "hour": 9,
+     "subject": "E"
+    },
+    {
+     "hour": 10,
+     "subject": "B"
+    },
+    {
+     "hour": 11,
+     "subject": "GK"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-25",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 19,
+     "subject": "GK"
+    },
+    {
+     "hour": 20,
+     "subject": "M"
+    },
+    {
+     "hour": 21,
+     "subject": "E"
+    },
+    {
+     "hour": 22,
+     "subject": "B"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "GK"
+    },
+    {
+     "hour": 8,
+     "subject": "M"
+    },
+    {
+     "hour": 9,
+     "subject": "E"
+    },
+    {
+     "hour": 10,
+     "subject": "B"
+    },
+    {
+     "hour": 11,
+     "subject": "GK"
+    },
+    {
+     "hour": 12,
+     "subject": "M"
+    },
+    {
+     "hour": 14,
+     "subject": "E"
+    },
+    {
+     "hour": 15,
+     "subject": "B"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-27",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "GK"
+    },
+    {
+     "hour": 8,
+     "subject": "M"
+    },
+    {
+     "hour": 9,
+     "subject": "E"
+    },
+    {
+     "hour": 10,
+     "subject": "B"
+    },
+    {
+     "hour": 11,
+     "subject": "GK"
+    },
+    {
+     "hour": 14,
+     "subject": "M"
+    },
+    {
+     "hour": 15,
+     "subject": "E"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-28",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "GK"
+    },
+    {
+     "hour": 7,
+     "subject": "M"
+    },
+    {
+     "hour": 8,
+     "subject": "E"
+    },
+    {
+     "hour": 9,
+     "subject": "B"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-29",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "GK"
+    },
+    {
+     "hour": 8,
+     "subject": "M"
+    },
+    {
+     "hour": 9,
+     "subject": "E"
+    },
+    {
+     "hour": 10,
+     "subject": "B"
+    },
+    {
+     "hour": 11,
+     "subject": "GK"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-30",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "GK"
+    },
+    {
+     "hour": 8,
+     "subject": "M"
+    },
+    {
+     "hour": 9,
+     "subject": "E"
+    },
+    {
+     "hour": 10,
+     "subject": "B"
+    },
+    {
+     "hour": 11,
+     "subject": "GK"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-01",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "M"
+    },
+    {
+     "hour": 8,
+     "subject": "E"
+    },
+    {
+     "hour": 9,
+     "subject": "B"
+    },
+    {
+     "hour": 10,
+     "subject": "GK"
+    },
+    {
+     "hour": 11,
+     "subject": "M"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-02",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 19,
+     "subject": "M"
+    },
+    {
+     "hour": 20,
+     "subject": "E"
+    },
+    {
+     "hour": 21,
+     "subject": "B"
+    },
+    {
+     "hour": 22,
+     "subject": "GK"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-03",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "M"
+    },
+    {
+     "hour": 8,
+     "subject": "E"
+    },
+    {
+     "hour": 9,
+     "subject": "B"
+    },
+    {
+     "hour": 10,
+     "subject": "GK"
+    },
+    {
+     "hour": 11,
+     "subject": "M"
+    },
+    {
+     "hour": 12,
+     "subject": "E"
+    },
+    {
+     "hour": 14,
+     "subject": "B"
+    },
+    {
+     "hour": 15,
+     "subject": "GK"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-04",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "M"
+    },
+    {
+     "hour": 8,
+     "subject": "E"
+    },
+    {
+     "hour": 9,
+     "subject": "B"
+    },
+    {
+     "hour": 10,
+     "subject": "GK"
+    },
+    {
+     "hour": 11,
+     "subject": "M"
+    },
+    {
+     "hour": 14,
+     "subject": "E"
+    },
+    {
+     "hour": 15,
+     "subject": "B"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-05",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "M"
+    },
+    {
+     "hour": 7,
+     "subject": "E"
+    },
+    {
+     "hour": 8,
+     "subject": "B"
+    },
+    {
+     "hour": 9,
+     "subject": "GK"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-06",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "M"
+    },
+    {
+     "hour": 8,
+     "subject": "E"
+    },
+    {
+     "hour": 9,
+     "subject": "B"
+    },
+    {
+     "hour": 10,
+     "subject": "GK"
+    },
+    {
+     "hour": 11,
+     "subject": "M"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-07",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "M"
+    },
+    {
+     "hour": 8,
+     "subject": "E"
+    },
+    {
+     "hour": 9,
+     "subject": "B"
+    },
+    {
+     "hour": 10,
+     "subject": "GK"
+    },
+    {
+     "hour": 11,
+     "subject": "M"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-08",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "M"
+    },
+    {
+     "hour": 8,
+     "subject": "E"
+    },
+    {
+     "hour": 9,
+     "subject": "B"
+    },
+    {
+     "hour": 10,
+     "subject": "GK"
+    },
+    {
+     "hour": 11,
+     "subject": "M"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-09",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 19,
+     "subject": "M"
+    },
+    {
+     "hour": 20,
+     "subject": "E"
+    },
+    {
+     "hour": 21,
+     "subject": "B"
+    },
+    {
+     "hour": 22,
+     "subject": "GK"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-10",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "M"
+    },
+    {
+     "hour": 8,
+     "subject": "E"
+    },
+    {
+     "hour": 9,
+     "subject": "B"
+    },
+    {
+     "hour": 10,
+     "subject": "GK"
+    },
+    {
+     "hour": 11,
+     "subject": "M"
+    },
+    {
+     "hour": 12,
+     "subject": "E"
+    },
+    {
+     "hour": 14,
+     "subject": "B"
+    },
+    {
+     "hour": 15,
+     "subject": "GK"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-11",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "M"
+    },
+    {
+     "hour": 8,
+     "subject": "E"
+    },
+    {
+     "hour": 9,
+     "subject": "B"
+    },
+    {
+     "hour": 10,
+     "subject": "GK"
+    },
+    {
+     "hour": 11,
+     "subject": "M"
+    },
+    {
+     "hour": 14,
+     "subject": "E"
+    },
+    {
+     "hour": 15,
+     "subject": "B"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-12",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "M"
+    },
+    {
+     "hour": 7,
+     "subject": "E"
+    },
+    {
+     "hour": 8,
+     "subject": "B"
+    },
+    {
+     "hour": 9,
+     "subject": "GK"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-13",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "M"
+    },
+    {
+     "hour": 8,
+     "subject": "E"
+    },
+    {
+     "hour": 9,
+     "subject": "B"
+    },
+    {
+     "hour": 10,
+     "subject": "GK"
+    },
+    {
+     "hour": 11,
+     "subject": "M"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-14",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "M"
+    },
+    {
+     "hour": 8,
+     "subject": "E"
+    },
+    {
+     "hour": 9,
+     "subject": "B"
+    },
+    {
+     "hour": 10,
+     "subject": "GK"
+    },
+    {
+     "hour": 11,
+     "subject": "M"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-15",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "M"
+    },
+    {
+     "hour": 8,
+     "subject": "E"
+    },
+    {
+     "hour": 9,
+     "subject": "B"
+    },
+    {
+     "hour": 10,
+     "subject": "GK"
+    },
+    {
+     "hour": 11,
+     "subject": "M"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-16",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 19,
+     "subject": "M"
+    },
+    {
+     "hour": 20,
+     "subject": "E"
+    },
+    {
+     "hour": 21,
+     "subject": "B"
+    },
+    {
+     "hour": 22,
+     "subject": "GK"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-17",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "M"
+    },
+    {
+     "hour": 8,
+     "subject": "E"
+    },
+    {
+     "hour": 9,
+     "subject": "B"
+    },
+    {
+     "hour": 10,
+     "subject": "GK"
+    },
+    {
+     "hour": 11,
+     "subject": "M"
+    },
+    {
+     "hour": 12,
+     "subject": "E"
+    },
+    {
+     "hour": 14,
+     "subject": "B"
+    },
+    {
+     "hour": 15,
+     "subject": "GK"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-18",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "M"
+    },
+    {
+     "hour": 8,
+     "subject": "E"
+    },
+    {
+     "hour": 9,
+     "subject": "B"
+    },
+    {
+     "hour": 10,
+     "subject": "GK"
+    },
+    {
+     "hour": 11,
+     "subject": "M"
+    },
+    {
+     "hour": 14,
+     "subject": "E"
+    },
+    {
+     "hour": 15,
+     "subject": "B"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-19",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "M"
+    },
+    {
+     "hour": 7,
+     "subject": "E"
+    },
+    {
+     "hour": 8,
+     "subject": "B"
+    },
+    {
+     "hour": 9,
+     "subject": "GK"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-20",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "M"
+    },
+    {
+     "hour": 8,
+     "subject": "E"
+    },
+    {
+     "hour": 9,
+     "subject": "B"
+    },
+    {
+     "hour": 10,
+     "subject": "GK"
+    },
+    {
+     "hour": 11,
+     "subject": "M"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-21",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "M"
+    },
+    {
+     "hour": 8,
+     "subject": "E"
+    },
+    {
+     "hour": 9,
+     "subject": "B"
+    },
+    {
+     "hour": 10,
+     "subject": "GK"
+    },
+    {
+     "hour": 11,
+     "subject": "M"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-22",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "M"
+    },
+    {
+     "hour": 8,
+     "subject": "E"
+    },
+    {
+     "hour": 9,
+     "subject": "B"
+    },
+    {
+     "hour": 10,
+     "subject": "GK"
+    },
+    {
+     "hour": 11,
+     "subject": "M"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-23",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 19,
+     "subject": "M"
+    },
+    {
+     "hour": 20,
+     "subject": "E"
+    },
+    {
+     "hour": 21,
+     "subject": "B"
+    },
+    {
+     "hour": 22,
+     "subject": "GK"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-24",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "M"
+    },
+    {
+     "hour": 8,
+     "subject": "E"
+    },
+    {
+     "hour": 9,
+     "subject": "B"
+    },
+    {
+     "hour": 10,
+     "subject": "GK"
+    },
+    {
+     "hour": 11,
+     "subject": "M"
+    },
+    {
+     "hour": 12,
+     "subject": "E"
+    },
+    {
+     "hour": 14,
+     "subject": "B"
+    },
+    {
+     "hour": 15,
+     "subject": "GK"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-25",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "M"
+    },
+    {
+     "hour": 8,
+     "subject": "E"
+    },
+    {
+     "hour": 9,
+     "subject": "B"
+    },
+    {
+     "hour": 10,
+     "subject": "GK"
+    },
+    {
+     "hour": 11,
+     "subject": "M"
+    },
+    {
+     "hour": 14,
+     "subject": "E"
+    },
+    {
+     "hour": 15,
+     "subject": "B"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-26",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "M"
+    },
+    {
+     "hour": 7,
+     "subject": "E"
+    },
+    {
+     "hour": 8,
+     "subject": "B"
+    },
+    {
+     "hour": 9,
+     "subject": "GK"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-27",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "M"
+    },
+    {
+     "hour": 8,
+     "subject": "E"
+    },
+    {
+     "hour": 9,
+     "subject": "B"
+    },
+    {
+     "hour": 10,
+     "subject": "GK"
+    },
+    {
+     "hour": 11,
+     "subject": "M"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-28",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "M"
+    },
+    {
+     "hour": 8,
+     "subject": "E"
+    },
+    {
+     "hour": 9,
+     "subject": "B"
+    },
+    {
+     "hour": 10,
+     "subject": "GK"
+    },
+    {
+     "hour": 11,
+     "subject": "M"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-29",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "M"
+    },
+    {
+     "hour": 8,
+     "subject": "E"
+    },
+    {
+     "hour": 9,
+     "subject": "B"
+    },
+    {
+     "hour": 10,
+     "subject": "GK"
+    },
+    {
+     "hour": 11,
+     "subject": "M"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-30",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 19,
+     "subject": "M"
+    },
+    {
+     "hour": 20,
+     "subject": "E"
+    },
+    {
+     "hour": 21,
+     "subject": "B"
+    },
+    {
+     "hour": 22,
+     "subject": "GK"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-31",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "M"
+    },
+    {
+     "hour": 8,
+     "subject": "E"
+    },
+    {
+     "hour": 9,
+     "subject": "B"
+    },
+    {
+     "hour": 10,
+     "subject": "GK"
+    },
+    {
+     "hour": 11,
+     "subject": "M"
+    },
+    {
+     "hour": 12,
+     "subject": "E"
+    },
+    {
+     "hour": 14,
+     "subject": "B"
+    },
+    {
+     "hour": 15,
+     "subject": "GK"
+    }
+   ]
+  },
+  {
+   "date": "2027-01-01",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "E"
+    },
+    {
+     "hour": 8,
+     "subject": "B"
+    },
+    {
+     "hour": 9,
+     "subject": "GK"
+    },
+    {
+     "hour": 10,
+     "subject": "M"
+    },
+    {
+     "hour": 11,
+     "subject": "E"
+    },
+    {
+     "hour": 14,
+     "subject": "E"
+    },
+    {
+     "hour": 15,
+     "subject": "B"
+    }
+   ]
+  },
+  {
+   "date": "2027-01-02",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "E"
+    },
+    {
+     "hour": 7,
+     "subject": "B"
+    },
+    {
+     "hour": 8,
+     "subject": "GK"
+    },
+    {
+     "hour": 9,
+     "subject": "M"
+    }
+   ]
+  },
+  {
+   "date": "2027-01-03",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "E"
+    },
+    {
+     "hour": 8,
+     "subject": "B"
+    },
+    {
+     "hour": 9,
+     "subject": "GK"
+    },
+    {
+     "hour": 10,
+     "subject": "M"
+    },
+    {
+     "hour": 11,
+     "subject": "E"
+    }
+   ]
+  },
+  {
+   "date": "2027-01-04",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "E"
+    },
+    {
+     "hour": 8,
+     "subject": "B"
+    },
+    {
+     "hour": 9,
+     "subject": "GK"
+    },
+    {
+     "hour": 10,
+     "subject": "M"
+    },
+    {
+     "hour": 11,
+     "subject": "E"
+    }
+   ]
+  },
+  {
+   "date": "2027-01-05",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "E"
+    },
+    {
+     "hour": 8,
+     "subject": "B"
+    },
+    {
+     "hour": 9,
+     "subject": "GK"
+    },
+    {
+     "hour": 10,
+     "subject": "M"
+    },
+    {
+     "hour": 11,
+     "subject": "E"
+    }
+   ]
+  },
+  {
+   "date": "2027-01-06",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 19,
+     "subject": "E"
+    },
+    {
+     "hour": 20,
+     "subject": "B"
+    },
+    {
+     "hour": 21,
+     "subject": "GK"
+    },
+    {
+     "hour": 22,
+     "subject": "M"
+    }
+   ]
+  },
+  {
+   "date": "2027-01-07",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "E"
+    },
+    {
+     "hour": 8,
+     "subject": "B"
+    },
+    {
+     "hour": 9,
+     "subject": "GK"
+    },
+    {
+     "hour": 10,
+     "subject": "M"
+    },
+    {
+     "hour": 11,
+     "subject": "E"
+    },
+    {
+     "hour": 12,
+     "subject": "B"
+    },
+    {
+     "hour": 14,
+     "subject": "GK"
+    },
+    {
+     "hour": 15,
+     "subject": "M"
+    }
+   ]
+  },
+  {
+   "date": "2027-01-08",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "E"
+    },
+    {
+     "hour": 8,
+     "subject": "B"
+    },
+    {
+     "hour": 9,
+     "subject": "GK"
+    },
+    {
+     "hour": 10,
+     "subject": "M"
+    },
+    {
+     "hour": 11,
+     "subject": "E"
+    },
+    {
+     "hour": 14,
+     "subject": "B"
+    },
+    {
+     "hour": 15,
+     "subject": "GK"
+    }
+   ]
+  },
+  {
+   "date": "2027-01-09",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "E"
+    },
+    {
+     "hour": 7,
+     "subject": "B"
+    },
+    {
+     "hour": 8,
+     "subject": "GK"
+    },
+    {
+     "hour": 9,
+     "subject": "M"
+    }
+   ]
+  },
+  {
+   "date": "2027-01-10",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "E"
+    },
+    {
+     "hour": 8,
+     "subject": "B"
+    },
+    {
+     "hour": 9,
+     "subject": "GK"
+    },
+    {
+     "hour": 10,
+     "subject": "M"
+    },
+    {
+     "hour": 11,
+     "subject": "E"
+    }
+   ]
+  },
+  {
+   "date": "2027-01-11",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "E"
+    },
+    {
+     "hour": 8,
+     "subject": "B"
+    },
+    {
+     "hour": 9,
+     "subject": "GK"
+    },
+    {
+     "hour": 10,
+     "subject": "M"
+    },
+    {
+     "hour": 11,
+     "subject": "E"
+    }
+   ]
+  },
+  {
+   "date": "2027-01-12",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "E"
+    },
+    {
+     "hour": 8,
+     "subject": "B"
+    },
+    {
+     "hour": 9,
+     "subject": "GK"
+    },
+    {
+     "hour": 10,
+     "subject": "M"
+    },
+    {
+     "hour": 11,
+     "subject": "E"
+    }
+   ]
+  },
+  {
+   "date": "2027-01-13",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 19,
+     "subject": "E"
+    },
+    {
+     "hour": 20,
+     "subject": "B"
+    },
+    {
+     "hour": 21,
+     "subject": "GK"
+    },
+    {
+     "hour": 22,
+     "subject": "M"
+    }
+   ]
+  },
+  {
+   "date": "2027-01-14",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "E"
+    },
+    {
+     "hour": 8,
+     "subject": "B"
+    },
+    {
+     "hour": 9,
+     "subject": "GK"
+    },
+    {
+     "hour": 10,
+     "subject": "M"
+    },
+    {
+     "hour": 11,
+     "subject": "E"
+    },
+    {
+     "hour": 12,
+     "subject": "B"
+    },
+    {
+     "hour": 14,
+     "subject": "GK"
+    },
+    {
+     "hour": 15,
+     "subject": "M"
+    }
+   ]
+  },
+  {
+   "date": "2027-01-15",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "E"
+    },
+    {
+     "hour": 8,
+     "subject": "B"
+    },
+    {
+     "hour": 9,
+     "subject": "GK"
+    },
+    {
+     "hour": 10,
+     "subject": "M"
+    },
+    {
+     "hour": 11,
+     "subject": "E"
+    },
+    {
+     "hour": 14,
+     "subject": "B"
+    },
+    {
+     "hour": 15,
+     "subject": "GK"
+    }
+   ]
+  },
+  {
+   "date": "2027-01-16",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "E"
+    },
+    {
+     "hour": 7,
+     "subject": "B"
+    },
+    {
+     "hour": 8,
+     "subject": "GK"
+    },
+    {
+     "hour": 9,
+     "subject": "M"
+    }
+   ]
+  },
+  {
+   "date": "2027-01-17",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "E"
+    },
+    {
+     "hour": 8,
+     "subject": "B"
+    },
+    {
+     "hour": 9,
+     "subject": "GK"
+    },
+    {
+     "hour": 10,
+     "subject": "M"
+    },
+    {
+     "hour": 11,
+     "subject": "E"
+    }
+   ]
+  },
+  {
+   "date": "2027-01-18",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "E"
+    },
+    {
+     "hour": 8,
+     "subject": "B"
+    },
+    {
+     "hour": 9,
+     "subject": "GK"
+    },
+    {
+     "hour": 10,
+     "subject": "M"
+    },
+    {
+     "hour": 11,
+     "subject": "E"
+    }
+   ]
+  },
+  {
+   "date": "2027-01-19",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "E"
+    },
+    {
+     "hour": 8,
+     "subject": "B"
+    },
+    {
+     "hour": 9,
+     "subject": "GK"
+    },
+    {
+     "hour": 10,
+     "subject": "M"
+    },
+    {
+     "hour": 11,
+     "subject": "E"
+    }
+   ]
+  },
+  {
+   "date": "2027-01-20",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 19,
+     "subject": "E"
+    },
+    {
+     "hour": 20,
+     "subject": "B"
+    },
+    {
+     "hour": 21,
+     "subject": "GK"
+    },
+    {
+     "hour": 22,
+     "subject": "M"
+    }
+   ]
+  },
+  {
+   "date": "2027-01-21",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "E"
+    },
+    {
+     "hour": 8,
+     "subject": "B"
+    },
+    {
+     "hour": 9,
+     "subject": "GK"
+    },
+    {
+     "hour": 10,
+     "subject": "M"
+    },
+    {
+     "hour": 11,
+     "subject": "E"
+    },
+    {
+     "hour": 12,
+     "subject": "B"
+    },
+    {
+     "hour": 14,
+     "subject": "GK"
+    },
+    {
+     "hour": 15,
+     "subject": "M"
+    }
+   ]
+  },
+  {
+   "date": "2027-01-22",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "E"
+    },
+    {
+     "hour": 8,
+     "subject": "B"
+    },
+    {
+     "hour": 9,
+     "subject": "GK"
+    },
+    {
+     "hour": 10,
+     "subject": "M"
+    },
+    {
+     "hour": 11,
+     "subject": "E"
+    },
+    {
+     "hour": 14,
+     "subject": "B"
+    },
+    {
+     "hour": 15,
+     "subject": "GK"
+    }
+   ]
+  },
+  {
+   "date": "2027-01-23",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "E"
+    },
+    {
+     "hour": 7,
+     "subject": "B"
+    },
+    {
+     "hour": 8,
+     "subject": "GK"
+    },
+    {
+     "hour": 9,
+     "subject": "M"
+    }
+   ]
+  },
+  {
+   "date": "2027-01-24",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "E"
+    },
+    {
+     "hour": 8,
+     "subject": "B"
+    },
+    {
+     "hour": 9,
+     "subject": "GK"
+    },
+    {
+     "hour": 10,
+     "subject": "M"
+    },
+    {
+     "hour": 11,
+     "subject": "E"
+    }
+   ]
+  },
+  {
+   "date": "2027-01-25",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "E"
+    },
+    {
+     "hour": 8,
+     "subject": "B"
+    },
+    {
+     "hour": 9,
+     "subject": "GK"
+    },
+    {
+     "hour": 10,
+     "subject": "M"
+    },
+    {
+     "hour": 11,
+     "subject": "E"
+    }
+   ]
+  },
+  {
+   "date": "2027-01-26",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "E"
+    },
+    {
+     "hour": 8,
+     "subject": "B"
+    },
+    {
+     "hour": 9,
+     "subject": "GK"
+    },
+    {
+     "hour": 10,
+     "subject": "M"
+    },
+    {
+     "hour": 11,
+     "subject": "E"
+    }
+   ]
+  },
+  {
+   "date": "2027-01-27",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 19,
+     "subject": "E"
+    },
+    {
+     "hour": 20,
+     "subject": "B"
+    },
+    {
+     "hour": 21,
+     "subject": "GK"
+    },
+    {
+     "hour": 22,
+     "subject": "M"
+    }
+   ]
+  },
+  {
+   "date": "2027-01-28",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "E"
+    },
+    {
+     "hour": 8,
+     "subject": "B"
+    },
+    {
+     "hour": 9,
+     "subject": "GK"
+    },
+    {
+     "hour": 10,
+     "subject": "M"
+    },
+    {
+     "hour": 11,
+     "subject": "E"
+    },
+    {
+     "hour": 12,
+     "subject": "B"
+    },
+    {
+     "hour": 14,
+     "subject": "GK"
+    },
+    {
+     "hour": 15,
+     "subject": "M"
+    }
+   ]
+  },
+  {
+   "date": "2027-01-29",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "E"
+    },
+    {
+     "hour": 8,
+     "subject": "B"
+    },
+    {
+     "hour": 9,
+     "subject": "GK"
+    },
+    {
+     "hour": 10,
+     "subject": "M"
+    },
+    {
+     "hour": 11,
+     "subject": "E"
+    },
+    {
+     "hour": 14,
+     "subject": "B"
+    },
+    {
+     "hour": 15,
+     "subject": "GK"
+    }
+   ]
+  },
+  {
+   "date": "2027-01-30",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "E"
+    },
+    {
+     "hour": 7,
+     "subject": "B"
+    },
+    {
+     "hour": 8,
+     "subject": "GK"
+    },
+    {
+     "hour": 9,
+     "subject": "M"
+    }
+   ]
+  },
+  {
+   "date": "2027-01-31",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "E"
+    },
+    {
+     "hour": 8,
+     "subject": "B"
+    },
+    {
+     "hour": 9,
+     "subject": "GK"
+    },
+    {
+     "hour": 10,
+     "subject": "M"
+    },
+    {
+     "hour": 11,
+     "subject": "E"
+    }
+   ]
+  },
+  {
+   "date": "2027-02-01",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "B"
+    },
+    {
+     "hour": 8,
+     "subject": "GK"
+    },
+    {
+     "hour": 9,
+     "subject": "M"
+    },
+    {
+     "hour": 10,
+     "subject": "E"
+    },
+    {
+     "hour": 11,
+     "subject": "B"
+    }
+   ]
+  },
+  {
+   "date": "2027-02-02",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "B"
+    },
+    {
+     "hour": 8,
+     "subject": "GK"
+    },
+    {
+     "hour": 9,
+     "subject": "M"
+    },
+    {
+     "hour": 10,
+     "subject": "E"
+    },
+    {
+     "hour": 11,
+     "subject": "B"
+    }
+   ]
+  },
+  {
+   "date": "2027-02-03",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 19,
+     "subject": "B"
+    },
+    {
+     "hour": 20,
+     "subject": "GK"
+    },
+    {
+     "hour": 21,
+     "subject": "M"
+    },
+    {
+     "hour": 22,
+     "subject": "E"
+    }
+   ]
+  },
+  {
+   "date": "2027-02-04",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "B"
+    },
+    {
+     "hour": 8,
+     "subject": "GK"
+    },
+    {
+     "hour": 9,
+     "subject": "M"
+    },
+    {
+     "hour": 10,
+     "subject": "E"
+    },
+    {
+     "hour": 11,
+     "subject": "B"
+    },
+    {
+     "hour": 12,
+     "subject": "GK"
+    },
+    {
+     "hour": 14,
+     "subject": "M"
+    },
+    {
+     "hour": 15,
+     "subject": "E"
+    }
+   ]
+  },
+  {
+   "date": "2027-02-05",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "B"
+    },
+    {
+     "hour": 8,
+     "subject": "GK"
+    },
+    {
+     "hour": 9,
+     "subject": "M"
+    },
+    {
+     "hour": 10,
+     "subject": "E"
+    },
+    {
+     "hour": 11,
+     "subject": "B"
+    },
+    {
+     "hour": 14,
+     "subject": "GK"
+    },
+    {
+     "hour": 15,
+     "subject": "M"
+    }
+   ]
+  },
+  {
+   "date": "2027-02-06",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "B"
+    },
+    {
+     "hour": 7,
+     "subject": "GK"
+    },
+    {
+     "hour": 8,
+     "subject": "M"
+    },
+    {
+     "hour": 9,
+     "subject": "E"
+    }
+   ]
+  },
+  {
+   "date": "2027-02-07",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "B"
+    },
+    {
+     "hour": 8,
+     "subject": "GK"
+    },
+    {
+     "hour": 9,
+     "subject": "M"
+    },
+    {
+     "hour": 10,
+     "subject": "E"
+    },
+    {
+     "hour": 11,
+     "subject": "B"
+    }
+   ]
+  },
+  {
+   "date": "2027-02-08",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "B"
+    },
+    {
+     "hour": 8,
+     "subject": "GK"
+    },
+    {
+     "hour": 9,
+     "subject": "M"
+    },
+    {
+     "hour": 10,
+     "subject": "E"
+    },
+    {
+     "hour": 11,
+     "subject": "B"
+    }
+   ]
+  },
+  {
+   "date": "2027-02-09",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "B"
+    },
+    {
+     "hour": 8,
+     "subject": "GK"
+    },
+    {
+     "hour": 9,
+     "subject": "M"
+    },
+    {
+     "hour": 10,
+     "subject": "E"
+    },
+    {
+     "hour": 11,
+     "subject": "B"
+    }
+   ]
+  },
+  {
+   "date": "2027-02-10",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 19,
+     "subject": "B"
+    },
+    {
+     "hour": 20,
+     "subject": "GK"
+    },
+    {
+     "hour": 21,
+     "subject": "M"
+    },
+    {
+     "hour": 22,
+     "subject": "E"
+    }
+   ]
+  },
+  {
+   "date": "2027-02-11",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "B"
+    },
+    {
+     "hour": 8,
+     "subject": "GK"
+    },
+    {
+     "hour": 9,
+     "subject": "M"
+    },
+    {
+     "hour": 10,
+     "subject": "E"
+    },
+    {
+     "hour": 11,
+     "subject": "B"
+    },
+    {
+     "hour": 12,
+     "subject": "GK"
+    },
+    {
+     "hour": 14,
+     "subject": "M"
+    },
+    {
+     "hour": 15,
+     "subject": "E"
+    }
+   ]
+  },
+  {
+   "date": "2027-02-12",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "B"
+    },
+    {
+     "hour": 8,
+     "subject": "GK"
+    },
+    {
+     "hour": 9,
+     "subject": "M"
+    },
+    {
+     "hour": 10,
+     "subject": "E"
+    },
+    {
+     "hour": 11,
+     "subject": "B"
+    },
+    {
+     "hour": 14,
+     "subject": "GK"
+    },
+    {
+     "hour": 15,
+     "subject": "M"
+    }
+   ]
+  },
+  {
+   "date": "2027-02-13",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "B"
+    },
+    {
+     "hour": 7,
+     "subject": "GK"
+    },
+    {
+     "hour": 8,
+     "subject": "M"
+    },
+    {
+     "hour": 9,
+     "subject": "E"
+    }
+   ]
+  },
+  {
+   "date": "2027-02-14",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "B"
+    },
+    {
+     "hour": 8,
+     "subject": "GK"
+    },
+    {
+     "hour": 9,
+     "subject": "M"
+    },
+    {
+     "hour": 10,
+     "subject": "E"
+    },
+    {
+     "hour": 11,
+     "subject": "B"
+    }
+   ]
+  },
+  {
+   "date": "2027-02-15",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "B"
+    },
+    {
+     "hour": 8,
+     "subject": "GK"
+    },
+    {
+     "hour": 9,
+     "subject": "M"
+    },
+    {
+     "hour": 10,
+     "subject": "E"
+    },
+    {
+     "hour": 11,
+     "subject": "B"
+    }
+   ]
+  },
+  {
+   "date": "2027-02-16",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "B"
+    },
+    {
+     "hour": 8,
+     "subject": "GK"
+    },
+    {
+     "hour": 9,
+     "subject": "M"
+    },
+    {
+     "hour": 10,
+     "subject": "E"
+    },
+    {
+     "hour": 11,
+     "subject": "B"
+    }
+   ]
+  },
+  {
+   "date": "2027-02-17",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 19,
+     "subject": "B"
+    },
+    {
+     "hour": 20,
+     "subject": "GK"
+    },
+    {
+     "hour": 21,
+     "subject": "M"
+    },
+    {
+     "hour": 22,
+     "subject": "E"
+    }
+   ]
+  },
+  {
+   "date": "2027-02-18",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "B"
+    },
+    {
+     "hour": 8,
+     "subject": "GK"
+    },
+    {
+     "hour": 9,
+     "subject": "M"
+    },
+    {
+     "hour": 10,
+     "subject": "E"
+    },
+    {
+     "hour": 11,
+     "subject": "B"
+    },
+    {
+     "hour": 12,
+     "subject": "GK"
+    },
+    {
+     "hour": 14,
+     "subject": "M"
+    },
+    {
+     "hour": 15,
+     "subject": "E"
+    }
+   ]
+  },
+  {
+   "date": "2027-02-19",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "B"
+    },
+    {
+     "hour": 8,
+     "subject": "GK"
+    },
+    {
+     "hour": 9,
+     "subject": "M"
+    },
+    {
+     "hour": 10,
+     "subject": "E"
+    },
+    {
+     "hour": 11,
+     "subject": "B"
+    },
+    {
+     "hour": 14,
+     "subject": "GK"
+    },
+    {
+     "hour": 15,
+     "subject": "M"
+    }
+   ]
+  },
+  {
+   "date": "2027-02-20",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "B"
+    },
+    {
+     "hour": 7,
+     "subject": "GK"
+    },
+    {
+     "hour": 8,
+     "subject": "M"
+    },
+    {
+     "hour": 9,
+     "subject": "E"
+    }
+   ]
+  },
+  {
+   "date": "2027-02-21",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "B"
+    },
+    {
+     "hour": 8,
+     "subject": "GK"
+    },
+    {
+     "hour": 9,
+     "subject": "M"
+    },
+    {
+     "hour": 10,
+     "subject": "E"
+    },
+    {
+     "hour": 11,
+     "subject": "B"
+    }
+   ]
+  },
+  {
+   "date": "2027-02-22",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "B"
+    },
+    {
+     "hour": 8,
+     "subject": "GK"
+    },
+    {
+     "hour": 9,
+     "subject": "M"
+    },
+    {
+     "hour": 10,
+     "subject": "E"
+    },
+    {
+     "hour": 11,
+     "subject": "B"
+    }
+   ]
+  },
+  {
+   "date": "2027-02-23",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "B"
+    },
+    {
+     "hour": 8,
+     "subject": "GK"
+    },
+    {
+     "hour": 9,
+     "subject": "M"
+    },
+    {
+     "hour": 10,
+     "subject": "E"
+    },
+    {
+     "hour": 11,
+     "subject": "B"
+    }
+   ]
+  },
+  {
+   "date": "2027-02-24",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 19,
+     "subject": "B"
+    },
+    {
+     "hour": 20,
+     "subject": "GK"
+    },
+    {
+     "hour": 21,
+     "subject": "M"
+    },
+    {
+     "hour": 22,
+     "subject": "E"
+    }
+   ]
+  },
+  {
+   "date": "2027-02-25",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "B"
+    },
+    {
+     "hour": 8,
+     "subject": "GK"
+    },
+    {
+     "hour": 9,
+     "subject": "M"
+    },
+    {
+     "hour": 10,
+     "subject": "E"
+    },
+    {
+     "hour": 11,
+     "subject": "B"
+    },
+    {
+     "hour": 12,
+     "subject": "GK"
+    },
+    {
+     "hour": 14,
+     "subject": "M"
+    },
+    {
+     "hour": 15,
+     "subject": "E"
+    }
+   ]
+  },
+  {
+   "date": "2027-02-26",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "B"
+    },
+    {
+     "hour": 8,
+     "subject": "GK"
+    },
+    {
+     "hour": 9,
+     "subject": "M"
+    },
+    {
+     "hour": 10,
+     "subject": "E"
+    },
+    {
+     "hour": 11,
+     "subject": "B"
+    },
+    {
+     "hour": 14,
+     "subject": "GK"
+    },
+    {
+     "hour": 15,
+     "subject": "M"
+    }
+   ]
+  },
+  {
+   "date": "2027-02-27",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "B"
+    },
+    {
+     "hour": 7,
+     "subject": "GK"
+    },
+    {
+     "hour": 8,
+     "subject": "M"
+    },
+    {
+     "hour": 9,
+     "subject": "E"
+    }
+   ]
+  },
+  {
+   "date": "2027-02-28",
+   "comment": "",
+   "slots": [
+    {
+     "hour": 6,
+     "subject": "B"
+    },
+    {
+     "hour": 8,
+     "subject": "GK"
+    },
+    {
+     "hour": 9,
+     "subject": "M"
+    },
+    {
+     "hour": 10,
+     "subject": "E"
+    },
+    {
+     "hour": 11,
+     "subject": "B"
+    }
+   ]
+  }
+ ]
+}
